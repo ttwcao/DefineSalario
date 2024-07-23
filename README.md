@@ -9,6 +9,9 @@ A partir da relação entre as classes, Worker para muitas HourContract e Worker
 ## Algorítmo 
 O projeto instacia um objeto Calendar para calcular o valor total dos ganhos, através de um for que percorre o ano e mês desejado para retornar os rendimentos do mês.
 
+https://github.com/user-attachments/assets/e666d97d-a165-47d5-814e-329bcfb96cd6
+
+
 ### Estou estudando
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 
